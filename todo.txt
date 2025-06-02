@@ -1,0 +1,11 @@
+# TODO
+* first task
+** checkout make-receipt-creation branch;
+** edit first bullet in CandyList.c to whatever you like. e.g. '* crazy Candy for Crazy PPL! :P ' ;
+** push changes to branch make-receipt-creation
+* make your own branch on remote/github using terminal in linux from main/master branch
+* compare two commits from main branch
+* merge make-receipt-creation branch to main branch
+* final task
+** find commit in which CandyList was first created/added. Take that version of a CandyList.c file to your current working branch craeted from latest main branch
+
